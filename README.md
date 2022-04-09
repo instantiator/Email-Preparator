@@ -4,7 +4,8 @@ The __Email Preparator__ is a tool for event organisers who may need to reach an
 
 It's a Google Sheet that interacts with your Gmail and Drive accounts to build emails with attachments. You can make a copy for your own use for free.
 
-* [Email Preparator v0.1 [make a copy]](https://docs.google.com/spreadsheets/d/18v8caw4R5WscY6k8qZ73LuBmX0iTQ-jouKjcf9YRnVw/edit?usp=sharing)
+* [Email Preparator v0.1](https://docs.google.com/spreadsheets/d/18v8caw4R5WscY6k8qZ73LuBmX0iTQ-jouKjcf9YRnVw/copy)
+* [Email Preparator v0.2]()
 
 The Email Preparator is provided free, and as-is, for use. It's a tool I use, and I'll occasionally update it. When I do, I'll create a new version so that you can continue to use the old sheet or transfer to the new one as you decide.
 
@@ -22,8 +23,8 @@ _NB. Scripts on Google Drive are time limited, and this creates a natural barrie
 
 | Version  | Changes |
 | ------------- | ------------- |
-| 0.1  | Initial release with support for Recipients, Templates, Variables, Attachments, Drafting Logging |
-
+| 0.1 | Initial release with support for Recipients, Templates, Variables, Attachments, Drafting Logging |
+| 0.2 | Unspecified improvements - this was a while ago! |
 
 ### Issues and feedback
 
