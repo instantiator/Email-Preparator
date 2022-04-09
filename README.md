@@ -24,7 +24,7 @@ _NB. Scripts on Google Drive are time limited, and this creates a natural barrie
 | Version  | Changes |
 | ------------- | ------------- |
 | 0.1 | Initial release with support for Recipients, Templates, Variables, Attachments, Drafting Logging |
-| 0.2 | Unspecified improvements - this was a while ago! |
+| 0.2 | Assorted minor improvements |
 
 ### Issues and feedback
 
