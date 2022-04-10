@@ -24,7 +24,7 @@ It's a tool I use personally, and I'll occasionally update it. When I do, I'll c
 
 Make a copy for your own use for free:
 
-* [Email Preparator v0.3](https://docs.google.com/spreadsheets/d/1KEw2ewPawjfqHkz6ruUwjOsgu7tR2tgBoq04RiYEKi0/copy)
+* [Email Preparator v0.4](https://docs.google.com/spreadsheets/d/1gI-Qh_bYGj_kYiuQa1AKvILjeoWEAt8oXhwM3fRggZA/copy)
 
 Full instructions are included in the __Welcome__ sheet.
 
@@ -39,11 +39,14 @@ _NB. Scripts on Google Drive are time limited, and this creates a natural barrie
 | 0.1 | Initial release with support for Recipients, Templates, Variables, Attachments, Drafting Logging. |
 | 0.2 | Assorted minor improvements. |
 | 0.3 | Enhances attachment support, automatic attachments using a drive folder as the source, automatic inline images by referring to them with cid references within the template. |
+| 0.4 | Adds support for multiple recipient emails, recipient CCs, and template CCs. |
 
 ### Previous versions
 
 * [Email Preparator v0.1](https://docs.google.com/spreadsheets/d/18v8caw4R5WscY6k8qZ73LuBmX0iTQ-jouKjcf9YRnVw/copy)
 * [Email Preparator v0.2](https://docs.google.com/spreadsheets/d/1dRD1mYxWgdFJl4dIBJMKFa339auvbErk6XtT8qjlq0o/copy)
+* [Email Preparator v0.3](https://docs.google.com/spreadsheets/d/1KEw2ewPawjfqHkz6ruUwjOsgu7tR2tgBoq04RiYEKi0/copy)
+
 
 ### Issues and feedback
 
